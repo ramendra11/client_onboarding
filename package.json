@@ -1,0 +1,19 @@
+{
+  "name": "cruxfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request": "^2.48.3",
+    "jsontokens": "^2.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
