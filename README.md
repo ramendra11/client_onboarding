@@ -8,6 +8,6 @@ and signed result is logged in console <br />
 
 
 NOTE: 
-* Private key must be in comre Hexadecimal Format <br />
+* Private key must be in hexadecimal format <br />
 * public key must be compressed and in lower case <br />
 
