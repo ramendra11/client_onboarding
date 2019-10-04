@@ -5,3 +5,9 @@ This is sample code to describe how to sign payload.<br />
   4: put your payload and private-key in index.ts <br />
   4: npn run start <br />
 and signed result is logged in console <br />
+
+
+NOTE: 
+* Private key must be in comre Hexadecimal Format <br />
+* public key must be compressed and in lower case <br />
+
